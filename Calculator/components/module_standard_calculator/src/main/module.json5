@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "module_standard_calculator",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "business_tool",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lib_foundation": "file:../../commons/lib_foundation",
+    "date_calculation": "file:../../components/date_calculation",
+    "base_apis": "file:../../components/base_apis"
+  }
+}

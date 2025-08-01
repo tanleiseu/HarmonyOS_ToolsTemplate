@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "AgreementPrivacy",
+      "pageSourceFile": "src/main/ets/components/AgreementPrivacy.ets",
+      "buildFunction": "AgreementPrivacyBuilder",
+      "data": {
+        "description": "this is AgreementPrivacy"
+      }
+    },
+    {
+      "name": "AboutPage",
+      "pageSourceFile": "src/main/ets/components/AboutPage.ets",
+      "buildFunction": "AboutPageBuilder",
+      "data": {
+        "description": "this is AboutPage"
+      }
+    }
+  ]
+}

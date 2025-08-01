@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "business_tool",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

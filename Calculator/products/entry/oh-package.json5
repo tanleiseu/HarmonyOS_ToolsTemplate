@@ -1,0 +1,15 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "lib_foundation": "file:../../commons/lib_foundation",
+    "business_home": "file:../../features/business_home",
+    "business_tool": "file:../../features/business_tool",
+    "business_mine": "file:../../features/business_mine",
+  }
+}
+

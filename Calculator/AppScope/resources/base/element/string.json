@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "计算器元服务模板"
+    },
+    {
+      "name": "agcit_huawei_calculator",
+      "value": "1.0.0"
+    },
+    {
+      "name": "agcittype_huawei_calculator",
+      "value": "industryTemplate"
+    },
+    {
+      "name": "agcitkid_huawei_calculator",
+      "value": "agcit_huawei_calculator_date_calculation/1.0.0,agcit_huawei_calculator_module_standard_calculator/1.0.0"
+    }
+  ]
+}

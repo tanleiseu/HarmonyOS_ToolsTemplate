@@ -1,0 +1,69 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.4(16)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": false
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./products/entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lib_foundation",
+      "srcPath": "./commons/lib_foundation",
+    },
+    {
+      "name": "module_standard_calculator",
+      "srcPath": "./components/module_standard_calculator",
+    },
+    {
+      "name": "business_home",
+      "srcPath": "./features/business_home",
+    },
+    {
+      "name": "date_calculation",
+      "srcPath": "./components/date_calculation",
+    },
+    {
+      "name": "base_apis",
+      "srcPath": "./components/base_apis",
+    },
+    {
+      "name": "business_tool",
+      "srcPath": "./features/business_tool",
+    },
+    {
+      "name": "business_mine",
+      "srcPath": "./features/business_mine",
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "HistoryResult",
+      "pageSourceFile": "src/main/ets/components/HistoryResult.ets",
+      "buildFunction": "HistoryResultBuilder",
+      "data": {
+        "description": "this is HistoryResult"
+      }
+    }
+  ]
+}
