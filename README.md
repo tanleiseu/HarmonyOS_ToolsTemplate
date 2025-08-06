@@ -17,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 工具（计算器）模板 | 实用工具（智慧家居）模板 | 
 |:---:|:---:|
-| ![输入图片说明](Calculator/screenshot/home.jpg)| ![输入图片说明](SmartHome/screenshots/homePage.jpeg)| 
+| ![输入图片说明](%E8%AE%A1%E7%AE%97%E5%99%A8%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)|![输入图片说明](%E6%99%BA%E6%85%A7%E5%AE%B6%E5%B1%85%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png)| 
